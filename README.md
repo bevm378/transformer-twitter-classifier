@@ -15,7 +15,11 @@ A Transformer-based neural network built for Twitter sentiment classification us
 
 ## Results
 Final test accuracy: ~84.68%
+
+
 Final test error: ~15.32%
+
+
 (See `train.ipynb` for full logs and evaluation)
 
 
